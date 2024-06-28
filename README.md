@@ -1,4 +1,3 @@
-# shoppingpage
 # Shopping Cart Application
 
 ## Description
